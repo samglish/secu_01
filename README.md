@@ -19,6 +19,110 @@ Les Outils utilisés:
 * Theharvester
 <hr>
 
+## Outil de prise d'informations complet `theHarvester`
+
+```terminal
+theHarvester -d google.com -l 100 -b google
+```
+
+`results`
+```terminal
+
+*******************************************************************
+*  _   _                                            _             *
+* | |_| |__   ___    /\  /\__ _ _ ____   _____  ___| |_ ___ _ __  *
+* | __|  _ \ / _ \  / /_/ / _` | '__\ \ / / _ \/ __| __/ _ \ '__| *
+* | |_| | | |  __/ / __  / (_| | |   \ V /  __/\__ \ ||  __/ |    *
+*  \__|_| |_|\___| \/ /_/ \__,_|_|    \_/ \___||___/\__\___|_|    *
+*                                                                 *
+* theHarvester 3.2.3                                              *
+* Coded by Christian Martorella                                   *
+* Edge-Security Research                                          *
+* cmartorella@edge-security.com                                   *
+*                                                                 *
+******************************************************************* 
+
+
+[*] Target: google.com 
+ 
+	Searching 0 results.
+	Searching 100 results.
+[*] Searching Google. 
+
+[*] No IPs found.
+
+[*] No emails found.
+
+[*] Hosts found: 124
+---------------------
+accounts.google.com:173.194.207.84
+admin.google.com:142.250.80.110
+ads.google.com:142.250.65.206
+adservice.google.com:142.251.35.162
+adssettings.google.com:142.250.65.206
+aistudio.google.com:142.251.40.174
+artsandculture.google.com:142.250.65.238
+assistant.google.com:142.250.80.46
+books.google.com:142.251.40.206
+calendar.google.com:142.251.40.206
+chrome.google.com:142.250.65.206
+chromewebstore.google.com:142.251.40.110
+classroom.google.com:142.250.176.206
+cloud.google.com:142.250.65.238
+colab.research.google.com:142.250.64.78
+console.cloud.google.com:142.250.79.46
+contacts.google.com:142.250.80.14
+developer.google.com:142.251.35.174
+developers.google.com:142.250.72.110
+earth.google.com:142.250.65.206
+edu.google.com:142.251.40.238
+fi.google.com:142.250.65.206
+firebase.google.com:142.250.81.238
+fonts.google.com:142.250.65.238
+gemini.google.com:142.251.40.238
+groups.google.com:216.239.34.177, 216.239.32.177, 216.239.38.177, 216.239.36.177
+home.google.com:142.251.32.110
+keep.google.com:216.239.32.176, 216.239.34.176, 216.239.38.176, 216.239.36.176
+landing.google.com:142.250.78.206
+lens.google.com:142.250.65.206
+lookerstudio.google.com:142.250.80.78
+maps.google.com:142.250.176.206
+marketingplatform.google.com:142.250.65.238
+meet.google.com:142.251.40.174
+messages.google.com:142.251.35.174
+myaccount.google.com:173.194.204.84
+myactivity.google.com:209.85.144.138, 209.85.144.102, 209.85.144.139, 209.85.144.100, 209.85.144.101, 209.85.144.113
+myadcenter.google.com:142.250.81.238
+news.google.com:142.251.35.174
+ogs.google.com:142.250.65.206
+one.google.com:142.250.65.206
+passwords.google.com:142.250.65.206
+patents.google.com:142.250.65.206
+pay.google.com:173.194.205.92
+photos.google.com:142.250.81.238
+picasa.google.com:142.250.65.164
+play.google.com:142.251.35.174
+policies.google.com:142.251.35.174
+programmablesearchengine.google.com:142.250.65.238
+remotedesktop.google.com:142.250.65.206
+safebrowsing.google.com:142.251.40.206
+santatracker.google.com:142.250.65.206
+scholar.google.com:142.250.80.36
+search.google.com:142.250.79.46
+shopping.google.com:142.251.174.92
+sites.google.com:142.250.80.110
+startup.google.com:142.250.80.110
+store.google.com:142.250.78.238
+support.google.com:142.250.80.14
+translate.google.com:142.250.79.46
+trends.google.com:142.250.65.164
+u003dwww.google.com
+userresearch.google.com:142.250.64.110
+voice.google.com:142.250.65.174
+workspace.google.com:142.250.79.14
+www.google.com:142.250.79.164
+```
+
 ## Recuperer les serveurs DNS `whois`
 
 ```terminal
