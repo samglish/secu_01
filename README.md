@@ -1,5 +1,46 @@
 # secu_01
 Hacking ethique
+```terminal
+## Testons notre script main.sh
+```terminal
+┌─[samglish@parrotOS]─[~]
+└──╼ $bash /home/samglish/Desktop/vb.sh 
+***********************************************************
+*                   Ethical Hacking                       *
+*           ALL IN ONE PRISE D'INFORMATIONS               *
+*                       Samglish                          *
+***********************************************************
+Installing tools...
+[sudo] Mot de passe de samglish : 
+Lecture des listes de paquets... Fait
+Construction de l'arbre des dépendances... Fait
+Lecture des informations d'état... Fait      
+E: Impossible de trouver le paquet theHarvester
+Please wait...
+Install succesfully
+------------------------------------------------------------
+entrez l'adresse ip de la machine ou le site
+kondah.com
+
+*******************************************************************
+*  _   _                                            _             *
+* | |_| |__   ___    /\  /\__ _ _ ____   _____  ___| |_ ___ _ __  *
+* | __|  _ \ / _ \  / /_/ / _` | '__\ \ / / _ \/ __| __/ _ \ '__| *
+* | |_| | | |  __/ / __  / (_| | |   \ V /  __/\__ \ ||  __/ |    *
+*  \__|_| |_|\___| \/ /_/ \__,_|_|    \_/ \___||___/\__\___|_|    *
+*                                                                 *
+* theHarvester 3.2.3                                              *
+* Coded by Christian Martorella                                   *
+* Edge-Security Research                                          *
+* cmartorella@edge-security.com                                   *
+*                                                                 *
+******************************************************************* 
+
+
+[*] Target: kondah.com 
+ 
+```
+<hr>
 ## La prise d'informations
 Il existe plusieurs sites capables de nous donner des informations utiles sur la cible tels que:
 <hr>
