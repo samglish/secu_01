@@ -1,7 +1,9 @@
 # secu_01
+
 Hacking ethique
-```terminal
+
 ## Testons notre script main.sh
+
 ```terminal
 ┌─[samglish@parrotOS]─[~]
 └──╼ $bash /home/samglish/Desktop/vb.sh 
