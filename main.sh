@@ -5,8 +5,27 @@ echo "*                       Samglish                          *"
 echo "***********************************************************"
 
 echo "Installing tools..."
-sudo apt install theharvester
+echo "------------------------------------------------------------"
+echo "***TheHarvester***"
 echo "Please wait..."
+sudo apt install theharvester
+echo " "
+echo "***whois***"
+echo "Please wait..."
+sudo apt install whois
+echo " "
+echo "***dig***"
+echo "Please wait..."
+sudo apt install dnsutils
+echo " "
+echo "***tcptraceroute***"
+echo "Please wait..."
+sudo apt install tcptraceroute
+echo " "
+echo "***dmitry***"
+echo "Please wait..."
+sudo apt install dmitry
+echo " "
 echo "Install succesfully"
 echo "------------------------------------------------------------"
 echo "entrez l'adresse ip de la machine ou le site"
