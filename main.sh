@@ -5,7 +5,7 @@ echo "*                       Samglish                          *"
 echo "***********************************************************"
 
 echo "Installing tools..."
-sudo apt install theHarvester
+sudo apt install theharvester
 echo "Please wait..."
 echo "Install succesfully"
 echo "------------------------------------------------------------"
