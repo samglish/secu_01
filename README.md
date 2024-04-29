@@ -19,7 +19,7 @@ Les Outils utilisés:
 * Theharvester
 <hr>
 
-## Outil de prise d'informations complet `theHarvester`
+## Outil complet de prise d'informations `theHarvester`
 
 ```terminal
 theHarvester -d google.com -l 100 -b google
