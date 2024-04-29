@@ -40,23 +40,22 @@ echo "5. Informations utiles"
 echo " "
 echo "Selectionnez"
 read r
-if [ $r == 1 ] then
+if ($r == 1 ) then
 echo "Please wait..."
 theHarvester -d $ip -l 1 -b all
-fi
-if [ $r == 2 ] then
+if ( $r == 2 ) then
 echo "Please wait..."
 whois $ip
 fi
-if [ $r == 3 ] then
+if ($r == 3 ) then
 echo "Please wait..."
 dig $ip
 fi
-if [ $r == 4 ] then
+if ( $r == 4 ) then
 echo "Please wait..."
 tcptraceroute $ip
 fi
-if [ $r == 5 ] then
+if ( $r == 5 ) then
 echo "Please wait..."
 dmitry $ip
 fi
