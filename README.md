@@ -6,4 +6,4 @@ Il existe plusieurs sites capables de nous donner des informations utiles sur la
 <a href="http://www.archive.org">www.archive.org </a> &nbsp;&nbsp;
 <a href="http://www.alexa.com">www.alexa.com </a> &nbsp;&nbsp;
 <a href="http://serversniff.net">serversniff.net </a> &nbsp;&nbsp;
-<a href="https://www.whois.com">www.whois.com</a>
+<a href="https://www.whois.net">www.whois.net</a>
