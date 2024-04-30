@@ -45,7 +45,7 @@ read -p "Enter a number: " Rput
 if [[ $Rput -eq 1 ]];
 then
 echo "Please wait..."
-sudo theHarvester -d $ip -l 100 -b all
+sudo theHarvester -d $ip -l 100 -b google
 elif [[ $Rput -eq 2 ]];
 then
 echo "Please wait..."
