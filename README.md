@@ -13,17 +13,66 @@ Hacking ethique
 *                       Samglish                          *
 ***********************************************************
 Installing tools...
+------------------------------------------------------------
+***TheHarvester***
+Please wait...
 [sudo] Mot de passe de samglish : 
 Lecture des listes de paquets... Fait
 Construction de l'arbre des dépendances... Fait
 Lecture des informations d'état... Fait      
-E: Impossible de trouver le paquet theHarvester
+theharvester est déjà la version la plus récente (3.2.3-0kali1).
+0 mis à jour, 0 nouvellement installés, 0 à enlever et 720 non mis à jour.
+ 
+***whois***
 Please wait...
+Lecture des listes de paquets... Fait
+Construction de l'arbre des dépendances... Fait
+Lecture des informations d'état... Fait      
+whois est déjà la version la plus récente (5.5.10).
+0 mis à jour, 0 nouvellement installés, 0 à enlever et 720 non mis à jour.
+ 
+***dig***
+Please wait...
+Lecture des listes de paquets... Fait
+Construction de l'arbre des dépendances... Fait
+Lecture des informations d'état... Fait      
+dnsutils est déjà la version la plus récente (1:9.16.44-1~deb11u1).
+0 mis à jour, 0 nouvellement installés, 0 à enlever et 720 non mis à jour.
+ 
+***tcptraceroute***
+Please wait...
+Lecture des listes de paquets... Fait
+Construction de l'arbre des dépendances... Fait
+Lecture des informations d'état... Fait      
+tcptraceroute est déjà la version la plus récente (1.5beta7+debian-4.1+b1).
+0 mis à jour, 0 nouvellement installés, 0 à enlever et 720 non mis à jour.
+ 
+***dmitry***
+Please wait...
+Lecture des listes de paquets... Fait
+Construction de l'arbre des dépendances... Fait
+Lecture des informations d'état... Fait      
+dmitry est déjà la version la plus récente (1.3a-1.1).
+0 mis à jour, 0 nouvellement installés, 0 à enlever et 720 non mis à jour.
+ 
 Install succesfully
 ------------------------------------------------------------
 entrez l'adresse ip de la machine ou le site
-kondah.com
+google.com
+scanning...
+------------------------------------------------------------
+1. scan complet et prise d'informations DNS
+2. Recuperer les serveurs DNS
+3. Interrogation de DNS d'un serveur
+4. routage de donnees
+5. Informations utiles
+ 
+Selectionnez
+Enter a number:  
+```
+after select 1
 
+```terminal
 *******************************************************************
 *  _   _                                            _             *
 * | |_| |__   ___    /\  /\__ _ _ ____   _____  ___| |_ ___ _ __  *
@@ -39,8 +88,85 @@ kondah.com
 ******************************************************************* 
 
 
-[*] Target: kondah.com 
+[*] Target: google.com 
  
+	Searching 0 results.
+	Searching 100 results.
+[*] Searching Google. 
+
+[*] No IPs found.
+
+[*] No emails found.
+
+[*] Hosts found: 127
+---------------------
+accounts.google.com:173.194.207.84
+ads.google.com:142.250.65.206
+adsense.google.com:142.250.65.206
+adssettings.google.com:142.250.65.206
+artsandculture.google.com:142.250.65.238
+assistant.google.com:142.250.80.46
+books.google.com:142.251.40.206
+calendar.google.com:142.251.40.206
+chat.google.com:142.250.81.238
+chromewebstore.google.com:142.251.40.110
+classroom.google.com:142.250.176.206
+cloud.google.com:142.250.65.238
+colab.research.google.com:216.239.32.180, 216.239.34.180, 216.239.38.180, 216.239.36.180
+console.cloud.google.com:142.250.65.206
+console.developers.google.com:216.239.32.27
+contacts.google.com:142.250.80.14
+developer.google.com:142.251.35.174
+developers.google.com:142.250.72.110
+docs.google.com:142.251.40.142
+domains.google.com:142.251.40.110
+earth.google.com:142.250.65.206
+edu.google.com:142.251.40.238
+fi.google.com:142.250.65.206
+firebase.google.com:142.250.81.238
+fonts.google.com:142.250.65.238
+gemini.google.com:142.251.40.238
+home.google.com:142.251.32.110
+keep.google.com:216.239.34.176, 216.239.38.176, 216.239.32.176, 216.239.36.176
+landing.google.com:142.250.176.206
+lens.google.com:142.250.65.206
+lookerstudio.google.com:142.250.80.78
+lwww.google.com
+maps.google.com:142.250.176.206
+marketingplatform.google.com:142.250.65.238
+meet.google.com:142.251.40.174
+messages.google.com:142.251.35.174
+myaccount.google.com:173.194.204.84
+myactivity.google.com:209.85.144.138, 209.85.144.100, 209.85.144.102, 209.85.144.113, 209.85.144.139, 209.85.144.101
+myadcenter.google.com:142.250.65.238
+news.google.com:142.251.35.174
+ogs.google.com:142.250.65.206
+one.google.com:142.250.65.206
+passwords.google.com:142.250.65.206
+patents.google.com:142.250.65.206
+pay.google.com:173.194.205.92
+photos.google.com:142.250.81.238
+picasa.google.com:142.250.65.164
+play.google.com:142.251.35.174
+policies.google.com:142.251.35.174
+programmablesearchengine.google.com:142.250.65.238
+remotedesktop.google.com:142.250.65.206
+safebrowsing.google.com:64.233.183.136, 64.233.183.190, 64.233.183.91, 64.233.183.93
+santatracker.google.com:142.250.65.206
+scholar.google.com:142.250.80.36
+search.google.com:142.250.65.206
+shopping.google.com:142.251.174.92
+sites.google.com:142.250.80.110
+startup.google.com:142.250.80.110
+store.google.com:172.217.165.142
+support.google.com:142.250.80.14
+translate.google.com:142.250.65.206
+trends.google.com:142.250.65.164
+u003dwww.google.com
+userresearch.google.com:142.250.64.110
+voice.google.com:142.250.65.174
+workspace.google.com:142.251.40.206
+www.google.com:142.251.32.100
 ```
 <hr>
 ## La prise d'informations
