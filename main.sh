@@ -1,3 +1,4 @@
+#!/bin/bash
 echo "***********************************************************"
 echo "*                   Ethical Hacking                       *"
 echo "*           ALL IN ONE PRISE D'INFORMATIONS               *"
@@ -39,24 +40,29 @@ echo "4. routage de donnees"
 echo "5. Informations utiles"
 echo " "
 echo "Selectionnez"
-read r
-if ($r == 1 ) then
+
+read -p "Enter a number: " Rput
+if [[ $Rput -eq 1 ]];
+then
 echo "Please wait..."
-theHarvester -d $ip -l 1 -b all
-if ( $r == 2 ) then
+sudo theHarvester -d $ip -l 100 -b all
+elif [[ $Rput -eq 2 ]];
+then
 echo "Please wait..."
 whois $ip
-fi
-if ($r == 3 ) then
+elif [[ $Rput -eq 3 ]];
+then
 echo "Please wait..."
 dig $ip
-fi
-if ( $r == 4 ) then
+elif [[ $Rput -eq 4 ]];
+then
 echo "Please wait..."
 tcptraceroute $ip
-fi
-if ( $r == 5 ) then
+elif [[ $Rput -eq 5 ]];
+then
 echo "Please wait..."
 dmitry $ip
+else
+echo "Choix indisponible"
 fi
 echo " "
